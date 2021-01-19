@@ -1,8 +1,6 @@
 
 
-<a>
-  <img align="left" height="400" src="https://github-readme-stats.vercel.app/api?username=AntonioJesusGarciaNieto&show_icons=true&theme=radical"/>
-</a>
+
 
 
 
@@ -26,7 +24,10 @@
   - send a message to anto_gn_555@hotmail.es
   - take a look at my linkedin https://www.linkedin.com/in/antonio-jesus-garcia-nieto/
 
-
+<a>
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=AntonioJesusGarciaNieto&show_icons=true&theme=radical"/>
+</a>
+<br>
 
 
 
