@@ -19,9 +19,14 @@
   - take a look at my linkedin https://www.linkedin.com/in/antonio-jesus-garcia-nieto/
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AntonioJesusGarciaNieto&show_icons=true&theme=radical"/>
+
+
+<a>
+  <img align="left" height="400" src="https://github-readme-stats.vercel.app/api?username=AntonioJesusGarciaNieto&show_icons=true&theme=radical"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioJesusGarciaNieto&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<a>
+  <img width="900" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioJesusGarciaNieto&langs_count=8"/>
+</a>
+
 
