@@ -22,7 +22,7 @@ I'm working on it
 ### Stats
 
 <a>
-  <img align="left" width="300" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioJesusGarciaNieto&langs_count=8"/>
+  <img align="left" width="300" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioJesusGarciaNieto&langs_count=10"/>
 </a>
 
 <a>
