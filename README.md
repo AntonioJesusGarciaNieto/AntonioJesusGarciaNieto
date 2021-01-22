@@ -13,13 +13,17 @@
 
 ---
 
-### Technologies
+### Technologies 💻
 
-I'm working on it
+The programming languages I can use are Python 🐍, Java, C++, SQL ... but my favourite is Python.
+
+I have programmed web pages with Python, using the Django framework. I have also created pages with Java, and JavaScript with frameworks such as Spring Boot and Angular.
+
+But my passion is artificial intelligence ⚙️🤖⚙️, in particular the field of deep learning.  The problem I have worked on the most is the classification of images.
 
 ---
 
-### Stats
+### Stats 📈📊📈
 
 <a>
   <img align="left" width="300" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioJesusGarciaNieto&langs_count=10"/>
